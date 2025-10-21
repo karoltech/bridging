@@ -48,6 +48,7 @@ Here is an overview of the infrastructure we are presently using, connecting the
 - [SNOMED CT & AI Symposium: Building Foundations 2023 - Panel discussion](https://youtu.be/tYY5qBDP2o8?list=PLyEMmgWz-ul0drEs48nHaklNq2U8ZqtLP&t=2771)  
 - [NL2ECL: Transforming Natural Language Queries to SNOMED CT Expression Constraint Language - Michael Lawley (AU) (202425)](https://www.youtube.com/watch?v=UXgow0VYSp8)  
 - [Adapting Clinical Ontologies in Real-World Environments](https://pubmed.ncbi.nlm.nih.gov/20390048/)  
+- [RelCAT: Advancing Extraction of Clinical Inter-Entity Relationships from Unstructured Electronic Health Records (arxiv)](https://arxiv.org/abs/2501.16077)  
 
 
 ## QR code (this document)
