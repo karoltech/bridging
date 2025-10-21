@@ -54,4 +54,5 @@ Here is an overview of the infrastructure we are presently using, connecting the
 ## QR code (this document)
 
 This page on GitHub: https://github.com/karoltech/bridging  
+  
 ![Bridging QR](img/qr_bridging.png)  
