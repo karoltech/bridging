@@ -22,7 +22,7 @@ Karol Hårsaker, MSc
 [karol@kovatech.no](mailto:karol@kovatech.no)  
 
 
-## Infrastucture
+## Infrastucture 
 Here is an overview of the infrastructure we are presently using, connecting the components together.  
 
 ![Toolbox](img/toolbox.png)  
@@ -50,4 +50,6 @@ Here is an overview of the infrastructure we are presently using, connecting the
 - [Adapting Clinical Ontologies in Real-World Environments](https://pubmed.ncbi.nlm.nih.gov/20390048/)  
 
 
+## QR code (this document)
 
+![Bridging QR](img/qr_bridging.png)  
