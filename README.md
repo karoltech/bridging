@@ -5,8 +5,9 @@ Presented at [SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo)
 
 We are dedicated to make semantic interoperability a practical reality, experimenting with the newest technologies.  
   
-You can find below some headlines about our work. More to come (also on-demand)...  
+You can find below some headlines about our work. More resources coming up (updating, also on-demand)...  
 
+Stay tuned ! 
 
 ## Contact information
 If any comment, suggestion or questions, please do not hesitate to take contact and discuss the subject.  
