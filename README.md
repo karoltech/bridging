@@ -3,11 +3,13 @@ Authors: Ulrich Andersen (DK) & Karol Hårsaker (NO)
 
 Presented at [SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo)  
 
+Inspired by the work from CogStack, e.g. [Foresight-generative pre-trained transformer](https://youtu.be/O3LU2ZX0ziM?si=ldROGokUhMiF_vjk)  
+
 We are dedicated to make semantic interoperability a practical reality, experimenting with the newest technologies.  
   
-You can find below some headlines about our work. More resources coming up (updating, also on-demand)...  
+You can find below some headlines about our work. **More resources coming up** (updating, also on-demand)...  
 
-Stay tuned ! 
+**Stay tuned !**  
 
 ## Contact information
 If any comment, suggestion or questions, please do not hesitate to take contact and discuss the subject.  
