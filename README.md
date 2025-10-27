@@ -29,12 +29,28 @@ Karol Hårsaker, MSc
 
 Bridging language differences between training and querying AI models for healthcare, 
 
-SNOMED CT Expo 2025, track "Advances in Research & Innovation", Thursday October 23, 11:30-12:30; see the program on [SNOMED CT Expo](https://lnkd.in/dszmKMFu). 
+SNOMED CT Expo 2025, track "**Advances in Research & Innovation**", Thursday October 23, 11:30-12:30; see the program on [SNOMED CT Expo](https://lnkd.in/dszmKMFu). 
 
 
 ### Abstract
 
 The healthcare landscape is increasingly witnessing the transformative potential of generative artificial intelligence (AI) across various applications, including the automation of clinical documentation and the enhancement of patient communication. Recent advances in large language model (LLM) architectures and transformer based sequence forecasting have opened new perspectives for longitudinal clinical decision support (CDS). However, a significant impediment to achieving equitable and effective healthcare delivery, particularly within the realm of AI applications, lies in the inherent linguistic diversity of global populations. This diversity encompasses not only the multitude of languages spoken worldwide but also the variations within those languages, including dialects and culturally specific expressions (i.e. practice). Generative AI models, often trained predominantly on English language data, frequently encounter difficulties in accurately processing and understanding different languages and their nuances. This limitation can lead to inaccurate translations, misinterpretations of critical medical information, and ultimately, the exacerbation of existing health disparities among different linguistic communities. This presentation aims to explore the features and capabilities of SNOMED CT in the context of using LLMs and elucidate how they can effectively address the challenges posed by linguistic diversity in the application of generative AI within clinical practice, ultimately fostering more inclusive and accurate healthcare solutions. The presentation will demonstrate how the Foresight Timeline generation tool using synthetic patient data based on various instances of the SNOMED Basic Synthetic Patient Data Generator (BSPG) performs with various AI models and languages (editions of SNOMED CT).
+
+## Experimenting  
+
+Our main question is: **In the age of LLMs, what is the future of the ontology SNOMED CT?**
+
+To answer this question we are experimenting, connecting the following components: 
+
+- Large Language Models (LLMs)
+- Generative AI (GenAI)
+- Retrieval Augmented Generation (RAG)
+- Agentic AI
+- Local deployment of models
+- Model Context Protocol (MCP)
+- Vector database and embedding
+- Graph database
+- Terminology server (Snowstorm)
 
 ## Infrastucture 
 Here is an overview of the infrastructure we are presently using, connecting the components together.  
