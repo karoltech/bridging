@@ -1,13 +1,15 @@
 # 202566 SNOMED CT: Bridging language differences between training and querying AI models for healthcare
 Authors: Ulrich Andersen (DK) & Karol Hårsaker (NO)  
 ![Talk](img/202566.png)  
-Presented at [SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo).  
+Presented at **[SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo)**.  See also the [annoucement (LinkedIn)](https://www.linkedin.com/posts/karol-haarsaker_glad-to-announce-that-ulrich-and-me-are-soon-activity-7383744474075533312-U9TE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABO8_pwBxrQpts7ouQOxl1sjKiyspCKYTac).
 
+Inspired by the work from ***CogStack***, e.g. [Foresight-generative pre-trained transformer](https://youtu.be/O3LU2ZX0ziM?si=ldROGokUhMiF_vjk).  
 
-
-We are dedicated to make semantic interoperability a practical reality, experimenting with the newest technologies.  
+We are dedicated to make **Semantic Interoperability** a practical reality, experimenting with the newest technologies.  
   
-You can find below some headlines about our work. More to come (also on-demand)...  Please take contact if you have comments or questions. 
+You can find below some headlines about our work. **More resources coming up** (updating, also on-demand), please take contact if you have comments or questions.  
+
+**Stay tuned !**  
 
 ## Contact information
 If any comment, suggestion or questions, please do not hesitate to take contact and discuss the subject.  
@@ -22,6 +24,17 @@ Karol Hårsaker, MSc
 [https://www.linkedin.com/in/karol-haarsaker](https://www.linkedin.com/in/karol-haarsaker)  
 [karol@kovatech.no](mailto:karol@kovatech.no)  
 
+
+## Description 
+
+Bridging language differences between training and querying AI models for healthcare, 
+
+SNOMED CT Expo 2025, track "Advances in Research & Innovation", Thursday October 23, 11:30-12:30; see the program on [SNOMED CT Expo](https://lnkd.in/dszmKMFu). 
+
+
+### Abstract
+
+The healthcare landscape is increasingly witnessing the transformative potential of generative artificial intelligence (AI) across various applications, including the automation of clinical documentation and the enhancement of patient communication. Recent advances in large language model (LLM) architectures and transformer based sequence forecasting have opened new perspectives for longitudinal clinical decision support (CDS). However, a significant impediment to achieving equitable and effective healthcare delivery, particularly within the realm of AI applications, lies in the inherent linguistic diversity of global populations. This diversity encompasses not only the multitude of languages spoken worldwide but also the variations within those languages, including dialects and culturally specific expressions (i.e. practice). Generative AI models, often trained predominantly on English language data, frequently encounter difficulties in accurately processing and understanding different languages and their nuances. This limitation can lead to inaccurate translations, misinterpretations of critical medical information, and ultimately, the exacerbation of existing health disparities among different linguistic communities. This presentation aims to explore the features and capabilities of SNOMED CT in the context of using LLMs and elucidate how they can effectively address the challenges posed by linguistic diversity in the application of generative AI within clinical practice, ultimately fostering more inclusive and accurate healthcare solutions. The presentation will demonstrate how the Foresight Timeline generation tool using synthetic patient data based on various instances of the SNOMED Basic Synthetic Patient Data Generator (BSPG) performs with various AI models and languages (editions of SNOMED CT).
 
 ## Infrastucture 
 Here is an overview of the infrastructure we are presently using, connecting the components together.  
