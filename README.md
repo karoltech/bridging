@@ -1,13 +1,15 @@
 # 202566 SNOMED CT: Bridging language differences between training and querying AI models for healthcare
 Authors: Ulrich Andersen (DK) & Karol Hårsaker (NO)  
 ![Talk](img/202566.png)  
-Presented at **[SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo)**.  See also the [annoucement (LinkedIn)](https://www.linkedin.com/posts/karol-haarsaker_glad-to-announce-that-ulrich-and-me-are-soon-activity-7383744474075533312-U9TE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABO8_pwBxrQpts7ouQOxl1sjKiyspCKYTac).
-
+Presented at **[SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo)**:    
+ - [Annoucement (LinkedIn)](https://www.linkedin.com/posts/karol-haarsaker_glad-to-announce-that-ulrich-and-me-are-soon-activity-7383744474075533312-U9TE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABO8_pwBxrQpts7ouQOxl1sjKiyspCKYTac).
+ - [Inspiring event (LinkedIn)](https://www.linkedin.com/posts/karol-haarsaker_github-karoltechbridging-activity-7388550072902430720-wMeN?utm_source=share&utm_medium=member_desktop&rcm=ACoAABO8_pwBxrQpts7ouQOxl1sjKiyspCKYTac).
+  
 Inspired by the work from ***CogStack***, e.g. [Foresight-generative pre-trained transformer](https://youtu.be/O3LU2ZX0ziM?si=ldROGokUhMiF_vjk).  
 
 We are dedicated to make **Semantic Interoperability** a practical reality, experimenting with the newest technologies.  
   
-You can find below some headlines about our work. **More resources coming up** (updating, also on-demand), please take contact if you have comments or questions.  
+You can find below some headlines about our work. **More resources coming up** (updating, also on-demand).  
 
 **Stay tuned !**  
 
