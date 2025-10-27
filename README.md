@@ -1,12 +1,13 @@
 # 202566 SNOMED CT: Bridging language differences between training and querying AI models for healthcare
-Authors: Ulrich Andersen (DK) & Karol Hårsaker (NO) 
+Authors: Ulrich Andersen (DK) & Karol Hårsaker (NO)  
+![Talk](img/202566.png)  
+Presented at [SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo).  
 
-Presented at [SNOMED CT Expo 2025](https://www.snomed.org/snomedct-expo)  
+
 
 We are dedicated to make semantic interoperability a practical reality, experimenting with the newest technologies.  
   
-You can find below some headlines about our work. More to come (also on-demand)...  
-
+You can find below some headlines about our work. More to come (also on-demand)...  Please take contact if you have comments or questions. 
 
 ## Contact information
 If any comment, suggestion or questions, please do not hesitate to take contact and discuss the subject.  
