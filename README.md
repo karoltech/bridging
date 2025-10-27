@@ -53,7 +53,9 @@ Here is an overview of the infrastructure we are presently using, connecting the
 - Deploying applications: [Docker](https://docs.docker.com/)  
 - Terminology server: [Snowstorm]()  
 - Graph database: [Neo4j](https://neo4j.com/docs/getting-started/data-modeling/tutorial-data-modeling/)  
-- Vector database: [Weaviate](https://docs.weaviate.io/weaviate)  
+- Vector database:  
+    - [Weaviate](https://docs.weaviate.io/weaviate)  
+    - [Pinecone](https://www.pinecone.io/)  
 - Agent orchestration: [LangGraph](https://langchain-ai.github.io/langgraph/guides/)  
 - Connecting AI assistants: [Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)  
 
