@@ -80,11 +80,12 @@ Here is an overview of the infrastructure we are presently using, connecting the
 ## Results 
 
 Deriving instances into the Graph database:   
+
 ![Instances](img/instances.png)
   
-- The ontology has a role to play in the AI space. 
-- Trainning LLMs is not necessary. 
-- Prompt Engineering is a stepstone and Context Engineering is the answer. 
+- The SNOMED CT ontology has a role to play in the AI space. 
+- Trainning LLMs is not necessary, avoiding use of extensive resources, reusing existing models. 
+- Prompt Engineering is a stepstone and Context Engineering is a powerful prerequisite. 
 
 
 ## References
