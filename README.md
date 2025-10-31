@@ -95,9 +95,10 @@ Deriving instances into the Graph database:
   
 ## Next steps 
 
-- Extended SNOMED CT semantics. 
-- Integration of an upper ontology, augmenting SNOMED CT with relationships for assertions. 
-- Benchmarking. 
+- Extended SNOMED CT semantics  
+- Integration of an upper ontology, augmenting SNOMED CT with relationships for assertions  
+- Benchmarking  
+- More Agentic AI
 
 ## References
 
