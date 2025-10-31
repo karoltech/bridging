@@ -84,9 +84,14 @@ Deriving instances into the Graph database:
 ![Instances](img/instances.png)
   
 - The SNOMED CT ontology has a role to play in the AI space. 
-- Trainning LLMs is not necessary, avoiding use of extensive resources, reusing existing models. 
+- Trainning LLMs is not necessary, avoiding use of extensive resources, reusing existing models, enabling running models locally with much lower carbon footprint. 
 - Prompt Engineering is a stepstone and Context Engineering is a powerful prerequisite. 
 
+## Next steps 
+
+- More SNOMED CT semantics. 
+- Integration of an upper ontology, augmenting SNOMED CT with relationships for assertions. 
+- Benchmarking. 
 
 ## References
 
