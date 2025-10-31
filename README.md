@@ -77,6 +77,16 @@ Here is an overview of the infrastructure we are presently using, connecting the
 - Agent orchestration: [LangGraph](https://langchain-ai.github.io/langgraph/guides/)  
 - Connecting AI assistants: [Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)  
 
+## Results 
+
+Deriving instances into the Graph database:   
+![Instances](img/instances.png)
+  
+- The ontology has a role to play in the AI space. 
+- Trainning LLMs is not necessary. 
+- Prompt Engineering is a stepstone and Context Engineering is the answer. 
+
+
 ## References
 
 - [SNOMED CT & AI Symposium: Building Foundations 2023 - Panel discussion](https://youtu.be/tYY5qBDP2o8?list=PLyEMmgWz-ul0drEs48nHaklNq2U8ZqtLP&t=2771)  
