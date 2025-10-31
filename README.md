@@ -83,16 +83,16 @@ Deriving instances into the Graph database:
 
 ![Instances](img/instances.png)
   
-- The SNOMED CT ontology has a role to play in the AI space. 
-- Enabling Explainable AI (XAI)
-- Trainning LLMs is not necessary:
-    - avoiding use of extensive resources
-    - reusing existing models
-- An architecture enabling running smaller models locally: 
-    - improving security
-    - much lower carbon footprint
-- Prompt Engineering is a stepstone, with Context Engineering as a powerful prerequisite
-
+- The SNOMED CT ontology has a role to play in the AI space  
+- Enabling Explainable AI (XAI)  
+- Trainning LLMs is not necessary:  
+    - avoiding use of extensive resources  
+    - reusing existing models  
+- An architecture enabling running smaller models locally:   
+    - improving security  
+    - much lower carbon footprint  
+- Prompt Engineering is a stepstone, with Context Engineering as a powerful prerequisite  
+  
 ## Next steps 
 
 - Extended SNOMED CT semantics. 
